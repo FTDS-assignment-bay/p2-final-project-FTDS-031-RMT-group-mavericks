@@ -4,9 +4,9 @@
 
 ## Introduction
 
-HiBlu merupakan model chatbot LLM yang dibuat khusus untuk Blu (sebuah layanan perbankan digital oleh BCA) dan di integrasikan dengan Generative AI API. Chatbot ini dirancang untuk memberikan tanggapan yang cepat dan akurat terhadap pertanyaan calon klien/klien terkait layanan Blu, guna meningkatkan waktu respon, efisiensi, dan pengalaman pelanggan.
+HiBlu merupakan model chatbot LLM yang dibuat khusus untuk Blu (sebuah layanan perbankan digital oleh BCA) dan diintegrasikan dengan Generative AI. Chatbot ini dirancang untuk memberikan tanggapan yang cepat dan akurat terhadap pertanyaan calon klien/klien terkait layanan Blu guna meningkatkan waktu respon, efisiensi, dan pengalaman pelanggan.
 
-Model chatbot LLM ini merupakan prototype pertama yang harapan kedepannya dapat di implementasikan terhadap kesuluruhan layanan instansi BCA. Dalam program prototype ini nantinya akan dilakukan juga perbandingan hasil pemodelan antara model LLM RAG dan LLM fine-tuned.
+Model chatbot LLM ini merupakan prototype pertama yang harapan kedepannya dapat diimplementasikan terhadap kesuluruhan layanan instansi BCA. Dalam program prototype ini nantinya akan dilakukan juga perbandingan hasil pemodelan antara model LLM RAG dan LLM fine-tuned.
 
 ---
 
@@ -21,4 +21,4 @@ Model chatbot LLM ini merupakan prototype pertama yang harapan kedepannya dapat 
 
 ## Data Source
 
-Data pedoman jawaban pertanyaan yang sering diajukan adalah berdasarkan laman [FAQ Blue](https://blubybcadigital.id/info/faq).
+Data pedoman jawaban pertanyaan yang sering diajukan adalah berdasarkan hasil scrapping pada laman [FAQ Blue](https://blubybcadigital.id/info/faq).
