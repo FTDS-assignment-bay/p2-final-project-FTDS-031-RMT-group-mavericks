@@ -33,4 +33,4 @@ Data pedoman jawaban pertanyaan yang sering diajukan adalah berdasarkan hasil sc
 
 ## Workflow
 
-<center><img src="https://imgtr.ee/images/2024/07/02/f61e5dc37ce5f5f1e6041c375450e2ee.jpeg" alt="f61e5dc37ce5f5f1e6041c375450e2ee.jpeg" border="0" /></center>
+<center><img src="https://imgtr.ee/images/2024/07/03/748b05fe8d39e6521776440cd25cceaf.png" alt="748b05fe8d39e6521776440cd25cceaf.png" border="0" /></center>
