@@ -21,7 +21,7 @@ Model chatbot LLM ini merupakan prototype pertama yang harapanya dapat diimpleme
 ## Team Members
 
    - [Dito Wicaksana Prasetya](https://github.com/ditoowp) as a Data Engineer.
-   - [Ahmad Naufal Budianto](https://naufalbudianto.framer.website/) as a Data Analyst + Deck Designer.
+   - [Ahmad Naufal Budianto](https://naufalbudianto.framer.website/) as a Data Analyst + Visual Designer.
    - [Gieorgie Kharismatik Kosasih](https://github.com/GieorgieK) as a Data Scientist.
    - [Darly Guntur Darris Purba](https://github.com/DarlyP) as a Data Scientist.
 
