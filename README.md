@@ -2,11 +2,17 @@
 
 ---
 
+## Background
+
+Di era digital yang kompetitif saat ini, kepuasan pelanggan merupakan hal yang sangat penting khususnya dalam sektor layanan perbankan. Tanggapan yang cepat dan akurat terhadap pertanyaan pelanggan sangatlah penting untuk mempertahankan pelanggan mereka. Teknologi Generative AI, khususnya Large Language Models (LLM), telah merevolusi interaksi pelanggan melalui chatbot yang cerdas dan mampu untuk menyediakan informasi dengan cepat dan tepat, serta dapat mengefisiensi *operational cost*.
+
+---
+
 ## Introduction
 
-HiBlu merupakan model chatbot LLM yang diintegrasikan dengan Generative AI, dan dibuat khusus untuk Blu (sebuah layanan perbankan digital oleh BCA). Chatbot ini dirancang untuk memberikan tanggapan yang cepat dan akurat terhadap pertanyaan calon klien/klien terkait layanan Blu guna meningkatkan waktu respon, efisiensi, dan pengalaman pelanggan.
+HiBlu merupakan model chatbot LLM yang dibuat khusus untuk Blu (sebuah layanan perbankan digital oleh BCA). HiBlu dirancang untuk memberikan tanggapan yang cepat dan akurat terhadap pertanyaan calon pelanggan/pelanggan terkait layanan Blu guna meningkatkan waktu respon, efisiensi, dan pengalaman pelanggan.
 
-Model chatbot LLM ini merupakan prototype pertama yang harapan kedepannya dapat diimplementasikan terhadap kesuluruhan layanan instansi BCA. Dalam dokumentasi prototype ini nantinya akan dilakukan juga perbandingan hasil pemodelan antara model LLM RAG dan LLM fine-tuned.
+Model chatbot LLM ini merupakan prototype pertama yang harapanya dapat diimplementasikan terhadap kesuluruhan layanan instansi BCA di masa depan. Dalam dokumentasi prototype ini nantinya akan dilakukan juga perbandingan hasil pemodelan antara model LLM RAG dan LLM fine-tuned.
 
 ---
 
