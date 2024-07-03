@@ -35,4 +35,4 @@ Data pedoman jawaban pertanyaan yang sering diajukan adalah berdasarkan hasil sc
 
 ## Workflow
 
-<center><img src="https://imgtr.ee/images/2024/07/03/748b05fe8d39e6521776440cd25cceaf.png" alt="748b05fe8d39e6521776440cd25cceaf.png" border="0" /></center>
+<center><img src="https://imgtr.ee/images/2024/07/03/7b827b2e9dc2f60d5301d7bd2b80b32b.png" alt="7b827b2e9dc2f60d5301d7bd2b80b32b.png" border="0" /></center>
