@@ -1,4 +1,4 @@
-<center><img src="https://imgtr.ee/images/2024/07/03/50c9827f9334303c4890856d841fee63.png" alt="50c9827f9334303c4890856d841fee63.png" border="0" /></center>
+<center><img src="https://imgtr.ee/images/2024/07/03/9eea693c3d3aee90f0ea2041012aa6a1.png" alt="9eea693c3d3aee90f0ea2041012aa6a1.png" border="0" /></center>
 
 # HiBlu: LLM Chatbot for Blu (BCA Digital)
 
