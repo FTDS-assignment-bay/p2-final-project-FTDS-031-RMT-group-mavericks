@@ -27,7 +27,7 @@ Model chatbot LLM ini merupakan prototype pertama yang harapanya dapat diimpleme
 
 ## Data Source
 
-Data pedoman jawaban pertanyaan yang sering diajukan adalah berdasarkan hasil scrapping pada laman [FAQ Blue](https://blubybcadigital.id/info/faq).
+Data pedoman jawaban pertanyaan yang sering diajukan adalah berdasarkan hasil scrapping pada laman [FAQ Blu](https://blubybcadigital.id/info/faq).
 
 ---
 
