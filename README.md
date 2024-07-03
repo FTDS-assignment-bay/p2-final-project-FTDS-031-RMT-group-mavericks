@@ -10,7 +10,7 @@ Di era digital yang kompetitif saat ini, kepuasan pelanggan merupakan hal yang s
 
 ## Introduction
 
-HiBlu merupakan model chatbot LLM yang dibuat khusus untuk Blu (sebuah layanan perbankan digital oleh BCA). HiBlu dirancang untuk memberikan tanggapan yang cepat dan akurat terhadap pertanyaan calon pelanggan/pelanggan terkait layanan Blu guna meningkatkan waktu respon, efisiensi, dan pengalaman pelanggan.
+HiBlu merupakan model chatbot LLM yang dibuat khusus untuk **blu** (sebuah layanan perbankan digital oleh BCA). HiBlu dirancang untuk memberikan tanggapan yang cepat dan akurat terhadap pertanyaan calon pelanggan/pelanggan terkait layanan **blu** guna meningkatkan waktu respon, efisiensi, dan pengalaman pelanggan.
 
 Model chatbot LLM ini merupakan prototype pertama yang harapanya dapat diimplementasikan terhadap kesuluruhan layanan instansi BCA di masa depan. Dalam dokumentasi prototype ini nantinya akan dilakukan juga perbandingan hasil pemodelan antara model LLM RAG dan LLM fine-tuned.
 
