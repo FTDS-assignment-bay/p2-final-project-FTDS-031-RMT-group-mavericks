@@ -27,4 +27,4 @@ Data pedoman jawaban pertanyaan yang sering diajukan adalah berdasarkan hasil sc
 
 ## Workflow
 
-![Workflow](https://i.ibb.co.com/xYjyX85/HiBlu.png)
+![Workflow](https://pasteboard.co/aj71gegGdEGp.jpg)
