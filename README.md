@@ -73,4 +73,4 @@ Data referensi jawaban pertanyaan yang sering diajukan adalah berdasarkan hasil 
 
 * [Recording Video](https://drive.google.com/file/d/1AUtG-WBEMWUht799C6bXHG-T645zUv1c/view?usp=sharing)
 * [Sample of Model Comparison](https://docs.google.com/spreadsheets/d/1C6bjPlXn09hHPvgiO1LU5f2JuIc1eKDk/edit?usp=sharing&ouid=108097674241546601906&rtpof=true&sd=true)
-* [Presentation Deck](https://drive.google.com/file/d/1XA_JdC6mpg4b86k_Zazs2aMH9JSIVwk9/view?usp=sharing)
+* [Presentation Deck](https://drive.google.com/file/d/1f4l9zLxRy-XMTeoh-R_E-1vX2rvMJmST/view?usp=sharing)
